@@ -1,0 +1,5 @@
+ipykernel
+langchain_openai
+python-dotenv
+langchain-community
+langgraph
